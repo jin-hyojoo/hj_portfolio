@@ -1,13 +1,13 @@
 import React, {Component} from 'react';
 
-class HeadNav extends Component{
+class Navigation extends Component{
     render(){
         return(
-            <div className ="HeadNav">
+            <div className ="Navigation">
 
             </div>
         );
     }
 }
 
-export default HeadNav;
+export default Navigation;

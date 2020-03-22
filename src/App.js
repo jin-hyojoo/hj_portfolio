@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import HeadNav from "./components/HeadNav";
+import Navigation from "./components/Navigation";
 import Title from "./components/Title";
 import About from "./components/About";
 import Skill from "./components/Skill";
@@ -12,7 +12,7 @@ class App extends Component {
   render(){
     return (
       <div className="App">
-        <HeadNav>ss</HeadNav>
+        <Navigation>ss</Navigation>
         <Title></Title>
         <About></About>
         <Skill></Skill>
