@@ -5,14 +5,15 @@ class About extends Component{
         return(
             <section id="about">
 
-                <div class="row">
-                    <div class="three columns">
-                        <img class="profile-pic"  src="/images/profilepic.jpg" alt="" />
+                <div className="row">
+                    <div className="three columns">
+                        <img className="profile-pic"  src="./images/profilepic.jpg" alt="" />
                     </div>
-                    <div class="nine columns main-col">
+                    <div className="nine columns main-col">
                         <h2>About Me</h2>
             
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                        <p>수영하기를 좋아하는 프론트엔드 개발자이지만 디자인에도 관심이 많다 어쩌구저쩌구 
+                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
                         eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
                         voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
                         voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
@@ -20,22 +21,21 @@ class About extends Component{
                         Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.
                         </p>
             
-                        <div class="row">
-                            <div class="columns contact-details">
+                        <div className="row">
+                            <div className="columns contact-details">
             
                                 <h2>Contact Details</h2>
-                                <p class="address">
-                                        <span>Jonathan Doe</span><br/>
-                                        <span>1600 Amphitheatre Parkway
-                                            Mountain View, CA 94043 US</span><br/>
-                                        <span>(123)456-7890</span><br/>
-                                        <span>anyone@website.com</span>
+                                <p className="address">
+                                        <span>진효주 Jin HyooJoo</span><br/>
+                                        <span>Dongdaemoon-Gu, Seoul,  &#x1F1F0;&#x1F1F7;</span><br/>
+                                        <span>(+82)  010 - 5507 - 7996</span><br/>
+                                        <span>hyojoo_97@naver.com</span>
                                 </p>
                             </div>
             
-                            <div class="columns download">
+                            <div className="columns download">
                                 <p>
-                                    <a href="#" class="button"><i class="fa fa-download"></i>Download Resume</a>
+                                    <a href="#" className="button"><i className="fa fa-download"></i>Download Resume</a>
                                 </p>
                             </div>
                         </div>  {/* end row */}

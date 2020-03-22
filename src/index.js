@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+/* import './index.css'; */
 import './css/default.css';
 import './css/layout.css';
 import './css/media-queries.css';
