@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './css/default.css';
+import './css/layout.css';
+import './css/media-queries.css';
+import './css/magnific-popup.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
