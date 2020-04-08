@@ -1,35 +1,33 @@
 import React, {Component} from 'react';
+import ReactWOW from 'react-wow';
 
 class Skill extends Component{
     render(){
         return(
         <section id="skill">
+            <ReactWOW animation="bounceInUp" duration="2s">
             <div className="row skill">
-
-                <div className="three columns header-col">
-                    <h1><span>Skills</span></h1>
-                </div>
-   
+                <h3><span>Skills</span></h3>
+                <div className="three columns header-col"></div>
                 <div className="nine columns main-col">
-   
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                    voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-                    voluptatem sequi nesciunt.
-                    </p>
-   
-                   <div className="bars">
-                        <ul className="skills">
-                            <li><span className="bar-expand photoshop"></span><em>Photoshop</em></li>
-                            <li><span className="bar-expand illustrator"></span><em>Illustrator</em></li>
-                            <li><span className="bar-expand wordpress"></span><em>Wordpress</em></li>
-                            <li><span className="bar-expand css"></span><em>CSS</em></li>
-                            <li><span className="bar-expand html5"></span><em>HTML5</em></li>
-                            <li><span className="bar-expand jquery"></span><em>jQuery</em></li>
+                    <div className="skillbox_container">
+                        <ul className="skillimg">
+                            <li><img className="c-pic"  src="./images/c_language.png" alt="c" /></li>
+                            <li><img className="java-pic"  src="./images/java_language.png" alt="java" /></li>
+                            <li><img className="html-pic"  src="./images/html_language.png" alt="html" /></li>
+                            <li><img className="css-pic"  src="./images/css_language.png" alt="css" /></li>
+                            <li><img className="javascript-pic"  src="./images/javascript_language.png" alt="javascript" /></li>
+                            <li><img className="spring-pic"  src="./images/spring_framwork.png" alt="spring" /></li>
+                            <li><img className="react-pic"  src="./images/react_library.png" alt="react" /></li>
+                            <li><img className="sql-pic"  src="./images/sql_language.png" alt="sql" /></li>
+                            <li><img className="git-pic"  src="./images/git.png" alt="git" /></li>
+                            <li><img className="pho-pic"  src="./images/photoshop.png" alt="photoshop" /></li>
+                            <li><img className="light-pic"  src="./images/Lightroom.png" alt="lightroom" /></li>
                         </ul>
-                   </div> {/* end skill-bars */}
+                    </div>
                </div> {/* main-col end */}
          </div>{/* End skills */}
+         </ReactWOW>
       </section> 
    
         );

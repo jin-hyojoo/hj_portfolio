@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import Typing from 'react-typing-animation';
 
 class Title extends Component{
     render(){
@@ -10,16 +11,17 @@ class Title extends Component{
                     {/* <div className="cow"><p>&#x1F42E;</p></div> */}
                     <p>&#x1F42E;&#127946;&#127925;&#127908;&#127916;&#128247;&#127759;&#127793;&#127830;&#127856;&#129505;</p>
                   <div className="banner-text">
-                     <h1 className="responsive-headline">Nyozu's Portfolio</h1>
-                     <h3>I'm a Korea based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
-                     effective visual identities for companies of all sizes around the globe. Let's <a className="smoothscroll" href="#about">start scrolling</a>
-                     and learn more <a className="smoothscroll" href="#about">about me</a>.</h3>
+                     <h1 className="responsive-headline">
+                         <Typing>Nyozu's Portfolio</Typing></h1>
+                     <h3>I'm not professional <span>Front-EndDeveloper.</span> But, I have full of desire to apply the <span>new technology.</span> 
+                         &nbsp; So I want to believe that become a <span>good Developer.</span> And If possible, I would like to know about to the 
+                         <span> Back-EndDeveloper</span></h3>
                      <hr />
                      <ul className="social">
-                        <li><a href="https://www.instagram.com/j.nyojoo" target="_blank"><i className="fa fa-instagram"></i></a></li>
+                        <li><a href="https://www.instagram.com/j.nyozu" target="_blank"><i className="fa fa-instagram"></i></a></li>
                         <li><a href="https://github.com/jin-hyojoo" target="_blank"><i className="fa fa-github"></i></a></li>
                         <li><a href="https://nyojzufavthing.tistory.com/" target="_blank"><i className="fa fa-bookmark"></i></a></li>
-                        <li><a href="#"><i className="fa fa-camera-retro"></i></a></li>
+                        <li><a href="https://nyozu.creatorlink.net/" target="_blank"><i className="fa fa-camera-retro"></i></a></li>
                      </ul>
                   </div>
                     <p className="scrolldown">
