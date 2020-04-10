@@ -37,6 +37,10 @@ e. Others
       HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
 /* ------------------------------------------------------------------ */
 
+html{ /* 스크롤 부드럽게 */
+   scroll-behavior: smooth;
+}
+
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
@@ -205,7 +209,7 @@ blockquote:before {
 	left: 0;
 }
 blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'opensans-bold', sans-serif;;
    padding: 0;
    font-size: 18px;
    line-height: 36px;
@@ -282,7 +286,7 @@ abbr:hover { cursor: help; }
 	color: inherit;
 }
 
-hr { border: solid #E3E3E3; border-width: 1px 0 0; clear: both; margin: 11px 0 30px; height: 0; }
+hr { border: /* solid #E3E3E3 */solid #4845c269; border-width: 1px 0 0; clear: both; margin: 11px 0 30px; height: 0; }
 
 
 /*  3. Links  ------------------------------------------------------- */

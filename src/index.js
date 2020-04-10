@@ -1,16 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-/* import './index.css'; */
 
 /* CeeVee Source */
 import './css/default.css';
 import './css/layout.css';
-import './css/media-queries.css';
-import './css/magnific-popup.css';
-
-/* Smash Templete Source 
-import './assets/css/style.css';
-import './css/style.css.map';*/
 
 
 /* 외부 스크립트는 어떻게 가져다 쓰는걸까? 

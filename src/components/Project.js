@@ -1,11 +1,12 @@
 import React, {Component} from 'react';
 import ReactWOW from 'react-wow';
+import Typing from 'react-typing-animation';
 
 class Project extends Component{
     render(){
         return(
             <section id="project">
-                <ReactWOW animation="bounceInUp" duration="3s">
+                <ReactWOW animation="bounceInUp" duration="2s">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-lg-6 col-md-10">
@@ -29,7 +30,9 @@ class Project extends Component{
                                         </ul>
                                     </div>
                                     <h4 className="team-name"><a href="#">memoG</a></h4>
-                                    <span className="sub-title">메모장 기능 기반 웹사이트</span>
+                                    <span className="sub-title">메모장 기능 기반 웹사이트
+                                        <br></br>#Java #oracle #html #css #js
+                                    </span>
                                 </div>{/* end team-content */}
                             </div>{/* end teadm style-eleven */}
                         </div>{/* end col-lg-4 , 카드섹션 (1)*/}
@@ -46,7 +49,9 @@ class Project extends Component{
                                         </ul>
                                     </div>
                                     <h4 className="team-name"><a href="#">수락간</a></h4>
-                                    <span className="sub-title">커스텀 가능한 도시락 주문 웹사이트</span>
+                                    <span className="sub-title">커스텀 가능한 도시락 주문 웹사이트
+                                        <br></br>#springMVC #Java #oracle
+                                    </span>
                                 </div>{/* end team-content */}
                             </div>{/* end teadm style-eleven */}
                         </div>{/* end col-lg-4 , 카드섹션 (2)*/}
@@ -64,7 +69,7 @@ class Project extends Component{
                                     </div>
                                     <h4 className="team-name"><a href="#">FINFO</a></h4>
                                     <span className="sub-title">국내 페스티벌 소개 및 추천 웹사이트
-                                        <br></br>#spring
+                                        <br></br>#springMVC_Security #Mysql
                                     </span>
                                 </div>
                             </div>

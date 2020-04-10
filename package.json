@@ -9,6 +9,7 @@
     "animate.css": "^3.7.2",
     "fittext": "^1.0.1",
     "magnific-popup": "^1.1.0",
+    "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",

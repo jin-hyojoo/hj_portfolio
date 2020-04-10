@@ -6,7 +6,7 @@ class Contact extends Component{
         return(
             
             <section id="contact">
-                <ReactWOW animation="bounceInUp" animation-ieration-count="infinity" duration="2s">
+                <ReactWOW animation="fadeInLeftBig" duration="1.2s">
                     <h3><span>CONTACT</span></h3>
                     <p className="address">
                             <span><i className="fa fa-user"></i> 진효주 Jin HyooJoo&nbsp;&nbsp;&nbsp;&nbsp;</span>

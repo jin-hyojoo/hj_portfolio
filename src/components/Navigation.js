@@ -9,7 +9,7 @@ class Navigation extends Component{
                    <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
          
                   <ul id="nav" className="nav">
-                     <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
+                     <li><a className="smoothscroll" href="#home">Home</a></li>
                      <li><a className="smoothscroll" href="#about">About</a></li>
                      <li><a className="smoothscroll" href="#skill">Skill</a></li>
                       <li><a className="smoothscroll" href="#project">Project</a></li>
