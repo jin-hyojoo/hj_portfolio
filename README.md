@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [👩‍💻NyoZu - Portfolio](https://jin-hyojoo.github.io/portfolio/)
+My first Portfolio made from React 
+
+## 🎈ETC
+Copyright and License Reference
+- [Ceevee - Free Responsive HTML5/CSS3 Template](http://www.bearex.co.kr/)
+- [ Smash – HTML Business And Agency Website Template](https://preview.uideck.com/items/smash/)
 
 ## Available Scripts
 
