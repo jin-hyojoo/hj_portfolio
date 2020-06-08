@@ -32,7 +32,7 @@ header {
    min-height: 500px;
    width: 100%;
    background : linear-gradient(-45deg, rgba(105, 169, 241, 0.705), rgba(29, 138, 228, 0.63)) fixed,
-                url("/images/watercolor.jpg") fixed;
+                url("https://1.bp.blogspot.com/-h9VdOggSpPk/Xt3I6R0jYEI/AAAAAAAAZ3Q/0apjSjVzfzcb1xkKq4l4CQWHMXxqzMafgCLcBGAsYHQ/s1600/watercolor.jpg") fixed;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
