@@ -25,11 +25,6 @@ class Title extends Component{
                 <div className="banner-text">
                      <ReactWOW animation="pulse">
                      <h3> 
-                         {/* I'm not a professional <span>Front-EndDeveloper </span>
-                         &nbsp;But, I have full of desire to apply the <span>new technology </span> <br></br>
-                         &nbsp; So I want to believe that  will become a <span>good Developer </span> And If possible, I would like to know about the 
-                         <span> Back-EndDeveloper</span> */}
-
                          I'm <span>&nbsp;Front-EndDeveloper&nbsp;</span>
                          &nbsp;But, i have full of desire to apply a <span>&nbsp;new technology&nbsp;</span> <br></br>
                          So if possible, I would like to know about the <span>&nbsp;Back-EndDeveloper&nbsp;</span>

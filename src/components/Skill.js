@@ -12,8 +12,8 @@ class Skill extends Component{
                 <div className="nine columns main-col">
                     <div className="skillbox_container">
                         <ul className="skillimg">
-                            <li><img className="c-pic"  src="./images/c_language.png" alt="c" /></li>
                             <li><img className="java-pic"  src="./images/java_language.png" alt="java" /></li>
+                            <li><img className="p-pic"  src="./images/python_language.png" alt="p" /></li>
                             <li><img className="html-pic"  src="./images/html_language.png" alt="html" /></li>
                             <li><img className="css-pic"  src="./images/css_language.png" alt="css" /></li>
                             <li><img className="javascript-pic"  src="./images/javascript_language.png" alt="javascript" /></li>
@@ -29,7 +29,6 @@ class Skill extends Component{
          </div>{/* End skills */}
          </ReactWOW>
       </section> 
-   
         );
     }
 }

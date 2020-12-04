@@ -12,7 +12,7 @@ class Project extends Component{
                         <div className="col-lg-6 col-md-10">
                             <div className="section-title text-center pb-30">
                                 <h3 className="title"><span>PROJECT</span></h3>
-                                <p className="text">쉽게 사용할 수 있는 웹사이트 개발을 목표로<br></br> 로고디자인 및 기능개발까지 폭넓게 참여하였습니다 </p>
+                                <p className="text">쉽게 사용할 수 있는 웹사이트 개발을 목표로<br></br> 로고디자인 및 프론트 - 백엔드 기능개발까지 폭넓게 참여하였습니다 </p>
                             </div> 
                         </div>
                     </div> {/* end row justify */}
@@ -25,7 +25,7 @@ class Project extends Component{
                                 <div className="team-content">
                                     <div className="team-social">
                                         <ul className="social">
-                                            <li><a href= "https://drive.google.com/file/d/1VTMVVmJk1e7VCqOs_9nrcZgal86GJbxU/view?usp=sharing" target="_blank"><i className="fa fa-plus"></i></a></li>
+                                            <li><a href= "https://drive.google.com/file/d/1IU5B-ndBs8B8OncdfC4o0YaO3sQYfhwS/view?usp=sharing" target="_blank"><i className="fa fa-plus"></i></a></li>
                                             {/* <li><a href="#"><i className="fa fa-github"></i></a></li> */}
                                         </ul>
                                     </div>
@@ -45,12 +45,12 @@ class Project extends Component{
                                 <div className="team-content">
                                     <div className="team-social">
                                         <ul className="social">
-                                            <li><a href="https://drive.google.com/file/d/119HKSp8hq3hCGna_WVRXmVFgpZV_X0MU/view?usp=sharing" target="_blank"><i className="fa fa-plus"></i></a></li>
+                                            <li><a href="https://drive.google.com/file/d/1ru_lt9hkJ4Q0aDI5INRSZWWIRLqAA4K_/view?usp=sharing" target="_blank"><i className="fa fa-plus"></i></a></li>
                                         </ul>
                                     </div>
                                     <h4 className="team-name"><a href="#">수락간</a></h4>
                                     <span className="sub-title">커스텀 가능한 도시락 주문 웹사이트
-                                        <br></br>#springMVC #Java #oracle
+                                        <br></br>#springMVC #RESTful 
                                     </span>
                                 </div>{/* end team-content */}
                             </div>{/* end teadm style-eleven */}
@@ -64,16 +64,17 @@ class Project extends Component{
                                 <div className="team-content">
                                     <div className="team-social">
                                         <ul className="social">
-                                            <li><a href="https://drive.google.com/file/d/1dviiiyB2YSV-WybFeVdfnCXp-9Nq1Qr1/view?usp=sharing" target="_blank"><i className="fa fa-plus"></i></a></li>
+                                            <li><a href="https://drive.google.com/file/d/1K7JH0SPJBrIVgTdT4JBQtbhBlaeMNCFW/view?usp=sharing" target="_blank"><i className="fa fa-plus"></i></a></li>
                                         </ul>
                                     </div>
                                     <h4 className="team-name"><a href="#">FINFO</a></h4>
                                     <span className="sub-title">국내 페스티벌 소개 및 추천 웹사이트
-                                        <br></br>#springMVC_Security #Mysql
+                                        <br></br>#springMVC_Security #Mysql 
                                     </span>
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div> 
             </ReactWOW>
