@@ -1,5 +1,5 @@
 # [👩‍💻NyoZu - Portfolio](https://jin-hyojoo.github.io/portfolio/)
-My first Portfolio made from React
+[My first Portfolio made from React](https://jin-hyojoo.github.io/portfolio/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
