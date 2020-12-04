@@ -1,11 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # [👩‍💻NyoZu - Portfolio](https://jin-hyojoo.github.io/portfolio/)
-My first Portfolio made from React 
+My first Portfolio made from React
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<br>
 
 ## 🎈ETC
 Copyright and License Reference
 - [Ceevee - Free Responsive HTML5/CSS3 Template](https://www.styleshout.com/free-templates/ceevee/)
 - [ Smash – HTML Business And Agency Website Template](https://preview.uideck.com/items/smash/)
+<br>
 
 ## 😓Have to Complement
 - [x] ~~mobile version에서 skill & porject 중앙정렬 css 수정요함~~
@@ -13,11 +17,9 @@ Copyright and License Reference
 
 - [x] ~~header부분 image upload 실패~~
 : <상대경로로 설정된 이미지 url>을 <웹 이미지 url>로 대체함으로써 해결완료
+<br>
 
-
-## Available Scripts
-
-In the project directory, you can run:
+## ✨In the project directory, you can run:
 
 ### `npm install`
 ### `npm start`
