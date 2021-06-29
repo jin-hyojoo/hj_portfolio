@@ -10,7 +10,7 @@ class About extends Component{
                 <ReactWOW animation="fadeInLeftBig" duration="1.5s">
                 <div className="row">
                    <div className="three columns">
-                        <ReactWOW animation="swing" duration="3s" ><div className="sentense">give a lot of favors!</div></ReactWOW>
+                        <ReactWOW animation="swing" duration="3s" ><div className="sentense">Better do your best than regret!</div></ReactWOW>
                     </div> 
                     <div className="nine columns main-col">
                         <h2><span>ABOUT</span></h2>
@@ -30,17 +30,18 @@ class About extends Component{
                             심혈을 기울입니다.
                             <br></br><br></br>
 
-                            97년생 소띠에 고기, 샌드위치, 갑각류 해산물, 빵, 마라샹궈, 밀크티 등을 좋아하나 슬프게도 날 음식은 못먹습니다. 수영을 배우고 있고 등산에 관심이 생겨
-                            북한산 정상도 다녀왔습니다. 영화를 볼 땐 생각할 주제가 있는 작품을 찾아봅니다. 손꼽는 작품이 있다면  &lt;칠월여안생&gt;과 
-                            &lt;원더&gt;,  &lt;타오르는 여인의 초상&gt; 등이 있습니다. 마블 히어로물에서는 화려한 마법을 쓰고 점점 성장하는 면모를 볼 수 있는 
-                            스칼렛위치를 가장 좋아합니다. 그리고 제일 중요한 "Music is my Life"를 실천하고 있습니다! 😉
+                            97년생 소띠에 고기, 갑각류 해산물, 마라샹궈, 인도커리, 구움과자, 밀크티 등을 좋아하나 슬프게도 날 음식은 못먹습니다. 
+                            다양한 취미 중 하나로 수영을 배우고 있고 등산에 관심이 생겨 북한산 정상에 다녀왔으며 최근에는 베이킹을 시작했습니다. 
+                            &lt;월-E&gt; &lt;스틸앨리스&gt; &lt;원더&gt; 
+                            &lt;칠월여안생&gt; &lt;타오르는 여인의 초상&gt; 같은 영화에 마음이 동하는 편이며 
+                            제일 중요한 "Music is my Life"를 실천하고 있습니다! 😉
                         </p> 
             
                         <div className="row">
             
                             <div className="columns download">
                                 <p>
-                                    <a href="#" className="button"><i className="fa fa-download"></i>Download Resume</a>
+                                    <a href="#" className="button"><i className="fa fa-download"></i>이력서 확인</a>
                                 </p>
                             </div>
                         </div>  {/* end row */}

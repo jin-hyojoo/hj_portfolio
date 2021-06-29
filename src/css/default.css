@@ -41,6 +41,14 @@ html{ /* 스크롤 부드럽게 */
    scroll-behavior: smooth;
 }
 
+div .icons-profile p{
+   margin-bottom: 12.5%;
+}
+
+div .banner-text h3{
+   font-family: opensans-semibold;
+}
+
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,

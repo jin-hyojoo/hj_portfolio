@@ -3,7 +3,8 @@ import Navigation from "./components/Navigation";
 import Title from "./components/Title";
 import About from "./components/About";
 import Skill from "./components/Skill";
-import Project from "./components/Project";
+import Experience from "./components/Experience";
+import Project from "./components/Project"; 
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
@@ -25,7 +26,8 @@ class App extends Component {
         
         <About></About>
         <Skill></Skill>
-        <Project></Project>
+        <Experience></Experience>
+        {/*<Project></Project>*/}
         <Contact></Contact>
         <Footer></Footer>
       </div>

@@ -6,16 +6,7 @@ import './css/default.css';
 import './css/layout.css';
 
 
-/* 외부 스크립트는 어떻게 가져다 쓰는걸까? 
-import './js/init';
-import './js/jquery-1.10.2.min';
-import './js/jquery-migrate-1.2.1.min';
-import './js/jquery.fittext';
-import './js/jquery.flexslider';
-import './js/magnific-popup';
-import './js/modernizr';
-import './js/waypoints'; */
-
+/* 외부 스크립트는 어떻게 가져다 쓰는걸까? */
 
 
 
