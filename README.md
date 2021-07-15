@@ -12,12 +12,15 @@ Copyright and License Reference
 <br>
 
 ## 😓Have to Complement
-- [x] ~~mobile version에서 skill & porject 중앙정렬 css 수정요함~~
+- [x] ~~mobile version에서 skill & porject 중앙정렬 css 수정요함~~  
 : 미디어 쿼리, flex박스 등으로 데스크탑,모바일 버전 레이아웃 해결완료 
 
-- [x] ~~header부분 image upload 실패~~
+- [x] ~~header부분 image upload 실패~~  
 : <상대경로로 설정된 이미지 url>을 <웹 이미지 url>로 대체함으로써 해결완료
-<br>
+
+- [x] project 섹션을 experience 섹션으로 확장  
+: 그동안의 프로젝트 관련 타임라인을 한눈에 보기 쉽게 정리
+
 
 ## ✨In the project directory, you can run:
 
