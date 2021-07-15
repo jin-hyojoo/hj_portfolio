@@ -24,7 +24,7 @@ class Footer extends Component{
 
                     <ul className="copyright">
                         <li>&copy; Copyright 2020 Jin-HyoJoo All rights reserved.</li>
-                        <li>Original Design source <a title="Styleshout" href="http://www.styleshout.com/"> : Styleshout</a></li>   
+                        <li><a title="Styleshout" href="https://www.styleshout.com/demo/?theme=ceevee" target="_blank">Original Design source  : Styleshout</a></li>   
                     </ul>
 
                 </div>

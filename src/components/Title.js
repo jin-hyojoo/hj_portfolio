@@ -14,7 +14,7 @@ class Title extends Component{
                 </div>
 
                 {/* 타이틀 문구 */}
-                <div class="wrapper">
+                <div className="wrapper">
                     <ReactWOW animation="fadeIn" duration="2s"><h1 data-heading="Nyozu's Portfolio">Nyozu's Portfolio</h1></ReactWOW>
                 </div>
 
@@ -31,9 +31,8 @@ class Title extends Component{
 
                      <ReactWOW animation="pulse">
                      <h3> 
-                         I'm <span>&nbsp;Front-EndDeveloper&nbsp;</span>
-                         &nbsp;But, i have full of desire to apply a <span>&nbsp;new technology&nbsp;</span> <br></br>
-                         So if possible, I would like to know about the <span>&nbsp;Back-EndDeveloper&nbsp;</span>
+                         Hello&#x1F44B; I'm a Front-End Developer curious about new technologies<br></br> 
+                         If possible, I wanna know more about Back-End Developer. Will it be possible? &#x1F60E;
                     </h3>
                     </ReactWOW>
                 </div>

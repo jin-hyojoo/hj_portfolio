@@ -9,12 +9,16 @@ class Contact extends Component{
                 <ReactWOW animation="fadeInLeftBig" duration="1.2s">
                     <h3><span>CONTACT</span></h3>
                     <p className="address">
-                            <span><i className="fa fa-user"></i> 진효주 Jin HyooJoo&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                            <span><i className="fa fa-home"></i> Dongdaemoon-Gu, Seoul,  &#x1F1F0;&#x1F1F7;</span><br/>
-                            <span><i className="fa fa-phone"></i> (+82)  010 - 5507 - 7996&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                            <span><i className="fa fa-envelope"></i> 
+                    {/* <i className="fa fa-user"></i> 
+                        <i className="fa fa-home"></i>
+                        <i className="fa fa-phone"></i>
+                        <i className="fa fa-envelope"></i>*/}
+                            <span>&#x1F917; 진효주 Jin HyooJoo&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                            <span>&#x1F3E1; Dongdaemoon-Gu, Seoul,  &#x1F1F0;&#x1F1F7;</span><br/>
+                            <span>&#x1F4F1; (+82)  010 - 5507 - 7996&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                            <span> 
                                 <a href="mailto:hyojoo_97@naver.com">
-                                    &nbsp;hyojoo_97@naver.com</a></span>
+                                &#x1F33C; &nbsp;hyojoo_97@naver.com</a></span>
                     </p>
             </ReactWOW>
             </section>

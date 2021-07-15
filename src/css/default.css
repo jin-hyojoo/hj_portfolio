@@ -29,6 +29,7 @@ e. Others
 @import url("fonts.css");
 @import url("fontello/css/fontello.css");
 @import url("font-awesome/css/font-awesome.min.css");
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 /* ------------------------------------------------------------------
 /* b. Reset
@@ -41,13 +42,60 @@ html{ /* 스크롤 부드럽게 */
    scroll-behavior: smooth;
 }
 
-div .icons-profile p{
+div .icons-profile p{/* 타이틀 이모지 간격 */
    margin-bottom: 12.5%;
 }
 
-div .banner-text h3{
+div .banner-text h3{/* 타이틀 글씨체 */
    font-family: opensans-semibold;
 }
+.my-highlight{/* 밑줄, 하이라이트 */
+   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #d1e3f3 50%);
+}
+
+.project-more-logo{
+   max-width: 23px;
+}
+
+.pj-bookfind{
+   padding-top: 3%;
+}
+
+.pj-bookfind-img, .pj-bookfind-img-logo{
+   max-height: 260px;
+   padding: 2%;
+   object-fit: contain;
+   transition: all 0.2s linear;
+}
+
+.finfo-img{ /* 핀포 이미지 확대 lib 적용된 */
+   max-width: 70%;
+   padding: 1%;
+}
+
+.finfo-images{ /* 핀포 로고 */
+   max-height: 230px;
+   padding: 4%;
+   object-fit: contain;
+}
+
+.ncs-images{
+   max-width: 25%;
+}
+
+.info-201902, .info-20170209, .info-20160512, .info-20202, .info-20201112{ /* 아코디언 내용 간격*/
+   margin: 0 10%;
+}
+
+.ptam-source, .finfo-source, .bookfind-source{ /* 사진 - 영상소스 리사이징*/
+   max-width: 60%;
+}
+
+.understyle{ /* 밑줄 */
+   text-decoration : underline;
+}
+
+
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -155,7 +203,7 @@ html {
 
 body {
    background: #fff;
-   font-family: 'opensans-regular', sans-serif;
+   font-family: 'Nanum Gothic', serif;
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;

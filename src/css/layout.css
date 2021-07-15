@@ -372,7 +372,8 @@ ul#nav li.current a { color: #718ad1; }
    border-radius: 50%;
    background-size: cover;
    background-repeat: no-repeat;
-   margin-right: 3rem;
+   /* margin-right: 3rem; */
+   margin: 1rem;
    margin-top: 3rem;
    box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
 
@@ -380,10 +381,10 @@ ul#nav li.current a { color: #718ad1; }
 }
 
 /*===========================
-   e. project Section
+   e. experience Section
 ===========================*/
 
-#project {
+#experience {
    background: #FFFFFF;
    padding-top: 4%;
    padding-bottom: 66px;
@@ -393,11 +394,11 @@ ul#nav li.current a { color: #718ad1; }
 }
 
 
-#project div p{
+#experience div p{
    margin-bottom: 1%;
 }
 
-#project h3 span {
+#experience h3 span {
    border-bottom: 3px solid #80b5e3;
    padding-bottom: 6px;
 }
@@ -410,13 +411,16 @@ div #imgBox{
 }
 
    .project-box{
-      width: 90%;
-      max-width: 890px;
+      /*width: 90%;
+      width: 57.6%;
+      max-width: 890px;*/
+      padding-left: 4.5%;
       margin: 0 auto;
       display:flex;
       flex-direction: row;
       flex-wrap: wrap;
       align-content: center;
+      justify-content: center;
    }
 
 
@@ -592,8 +596,8 @@ div #imgBox{
 
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #718ad1; }
-#contact a:hover, #contact a:focus { color: #fff; }
+#contact a, #contact a:visited  { color:#636363;  }
+#contact a:hover, #contact a:focus { color: #718ad1; }
 
 #contact h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
