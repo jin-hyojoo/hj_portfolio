@@ -19,8 +19,8 @@ Copyright and License Reference
 : <상대경로로 설정된 이미지 url>을 <웹 이미지 url>로 대체함으로써 해결완료
 
 - [x] project 섹션을 experience 섹션으로 확장  
-: 그동안의 프로젝트 관련 타임라인을 한눈에 보기 쉽게 정리
-
+: 그동안의 프로젝트 관련 타임라인을 한눈에 보기 쉽게 정리  
+<br>
 
 ## ✨In the project directory, you can run:
 
