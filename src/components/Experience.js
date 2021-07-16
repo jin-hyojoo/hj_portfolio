@@ -187,7 +187,7 @@ class Experience extends Component{
 
                                     <p><span class="my-highlight">기능구현</span><br></br><br></br>
                                         <img class="finfo-img" src="./images/finfo/finfo-join1.gif" alt="finfo-join1"></img><br></br>
-                                        <img class="finfo-img" src="./images/finfo/finfo-join2.png" alt="finfo-join2"></img><br></br>
+                                        <img class="finfo-img" src="./images/finfo/finfo-join2.PNG" alt="finfo-join2"></img><br></br>
                                         &lt;클라이언트&gt; 회원가입 백엔드 &#x26A1;<br></br>
                                         회원가입에 요구되는 정보(이메일, 비밀번호, 이름, 선호장르) 입력 폼이 나타나며<br></br>
                                         비밀번호는 <span class="understyle">Bcrypt의 해시 알고리즘</span>을 통해 암호화되어 DB에 저장<br></br>
@@ -302,7 +302,7 @@ class Experience extends Component{
                                             <div class="col-lg-4-col-sm-6" id="imgBox">
                                                 <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                                                     <div class="team-image">
-                                                        <img src="/images/team-1.jpg" alt="Team"></img>
+                                                        <img src="./images/team-1.jpg" alt="Team"></img>
                                                     </div>
                                                     <div class="team-content">
                                                         <div class="team-social">
@@ -321,7 +321,7 @@ class Experience extends Component{
                                             <div class="col-lg-4-col-sm-6" id="imgBox">
                                                 <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                                                     <div class="team-image" >
-                                                        <img src="/images/team-2.jpg" alt="Team"></img>
+                                                        <img src="./images/team-2.jpg" alt="Team"></img>
                                                     </div>
                                                     <div class="team-content">
                                                         <div class="team-social">
