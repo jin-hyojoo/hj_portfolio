@@ -61,9 +61,10 @@ header .icons-profile{
 }
 
 header .profile-pic {
-   width: 160px;
-   height: 160px;
+   width: 150px;
+   height: 150px;
    border-radius: 100%;
+   outline: solid #fff 8px;
 }
 
 header .banner-text { width: 100%; }

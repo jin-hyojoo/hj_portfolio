@@ -10,7 +10,7 @@ class Title extends Component{
                 {/* 아이콘-프로필 박스 */}
                 <div className="icons-profile">
                     <p>&#x1F42E;&#127946;&#127925;&#127908;&#127916;&#128247;&#127759;&#127793;&#127830;&#127856;&#129505;</p>
-                    <img className="profile-pic"  src="./images/profilepic.jpg" alt="photo" />
+                    <img className="profile-pic"  src="./images/pic.png" alt="photo" />
                 </div>
 
                 {/* 타이틀 문구 */}

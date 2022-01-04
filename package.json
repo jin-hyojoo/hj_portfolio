@@ -14,7 +14,9 @@
     "react": "^16.14.0",
     "react-accessible-accordion": "^3.3.4",
     "react-dom": "^16.14.0",
+    "react-router-dom": "^6.2.1",
     "react-scripts": "3.4.1",
+    "react-scroll-to-top": "^1.0.8",
     "react-typing-animation": "^1.6.2",
     "react-wow": "^1.0.0",
     "waypoints": "^4.0.1"

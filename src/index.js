@@ -6,16 +6,13 @@ import './css/default.css';
 import './css/layout.css';
 
 
-/* 외부 스크립트는 어떻게 가져다 쓰는걸까? */
-
-
 
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+        <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

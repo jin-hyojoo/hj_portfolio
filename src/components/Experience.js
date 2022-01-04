@@ -9,7 +9,6 @@ import {
     AccordionItemPanel,
 } from 'react-accessible-accordion';
 import '../css/accordion.css';
-
 import mediumZoom from 'medium-zoom'
 
 
@@ -54,7 +53,7 @@ class Experience extends Component{
                                 </AccordionItemButton>
                             </AccordionItemHeading>
                         </AccordionItem>
-                        <AccordionItem>
+                        <AccordionItem >
                             <AccordionItemHeading>
                                 <AccordionItemButton>
                                     <b>2020.11-12</b>&emsp;&emsp;&emsp;&nbsp;&#x1F331; 멀티캠퍼스 2020년 청년취업아카데미 교육 이수
@@ -141,7 +140,7 @@ class Experience extends Component{
                                     <br></br><br></br></p>    
 
                                     <p> * 프로젝트 더 살펴보기<br></br><br></br>
-                                        <a href="https://www.notion.so/nyozu/3e3016eceb694942a955bf9cc6d0ddee" target="_blank">
+                                        <a href="https://nyozu.notion.site/657ee86c38e94eebbacec9191ca2fe3b" target="_blank">
                                         <img class="project-more-logo" src="./images/bookfind/Notion_app_logo.png" alt="notionlogo"></img></a>
                                     <a href="https://github.com/jin-hyojoo/2020_youth_flaskproject" target="_blank">&emsp;
                                         <img class="project-more-logo" src="./images/bookfind/github-logo.png" alt="githublogo"></img></a></p>    
@@ -307,7 +306,7 @@ class Experience extends Component{
                                                     <div class="team-content">
                                                         <div class="team-social">
                                                             <ul class="social">
-                                                                <li><a href= "https://www.notion.so/nyozu/memoG-1495fe30a7d148b6b1421b5c71394b0a" target="_blank"><i class="fa fa-plus"></i></a></li>
+                                                                <li><a href= "https://nyozu.notion.site/memoG-55be9a17a815453794a0096b8d4138f1" target="_blank"><i class="fa fa-plus"></i></a></li>
                                                             </ul>
                                                         </div>
                                                         <h4 class="team-name"><a href="#">memoG</a></h4>
@@ -326,7 +325,7 @@ class Experience extends Component{
                                                     <div class="team-content">
                                                         <div class="team-social">
                                                             <ul class="social">
-                                                                <li><a href="https://www.notion.so/nyozu/9c424200e4174f6ea82224a21417d65d" target="_blank"><i class="fa fa-plus"></i></a></li>
+                                                                <li><a href="https://nyozu.notion.site/b588238bf85640b4ba1ff19a2c2abe79" target="_blank"><i class="fa fa-plus"></i></a></li>
                                                             </ul>
                                                         </div>
                                                         <h4 class="team-name"><a href="#">수락간</a></h4>
