@@ -1,25 +1,17 @@
 {
-  "name": "portfolio",
+  "name": "react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.1",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
-    "animate.css": "^4.1.1",
-    "fittext": "^1.0.1",
-    "magnific-popup": "^1.1.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
     "medium-zoom": "^1.0.6",
-    "node-sass": "^7.0.1",
-    "react": "^17.0.2",
+    "react": "^16.13.0",
     "react-accessible-accordion": "^4.0.0",
-    "react-dom": "^17.0.2",
-    "react-router-dom": "^6.2.1",
-    "react-scripts": "5.0.0",
-    "react-scroll-to-top": "^1.0.8",
-    "react-typing-animation": "^1.6.2",
-    "react-wow": "^1.0.0",
-    "waypoints": "^4.0.1"
+    "react-dom": "^16.13.0",
+    "react-scripts": "3.4.0",
+    "react-wow": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
